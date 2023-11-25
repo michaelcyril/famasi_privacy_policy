@@ -1,6 +1,6 @@
 # Famasi App Privacy Policy
 
-**Last Updated: [Date]**
+**Last Updated: 25/11/2023**
 
 Thank you for choosing Famasi, a comprehensive mobile application dedicated to streamlining pharmacy management activities. We deeply value your privacy and are committed to protecting the personal information you entrust to us. This Privacy Policy outlines how Famasi collects, uses, and secures your data.
 
